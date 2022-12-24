@@ -316,8 +316,8 @@ text-decoration: underline;
   
 
 }
-.discover div:hover{
-  color:#00CEFC
+.discover div a:hover{
+  color:#00CEFC !important;
 }
 
 .blue{
